@@ -17,27 +17,27 @@ organizations:
   - name: 求职中
     url: ''
 
-# Short bio (displayed in user profile at end of posts)
+# Short bio (displayed in the user profile at the end of posts)
 bio: My research interests are in the field of applied Microeconomics. Before starting my PhD in Agricultural Economics at Texas A&M University (TAMU), I earned my bachelor’s degree in finance from Southwest University of Finance and Economics and spent a year of study in TAMU's Economics Department. This diverse educational background has enabled me to explore a wide range of topics in my research, including portfolio risk management, labor policy, auction theory, and agricultural policies.
 
-#interests:
-#- Industrial Organization
-#- Auction Theory     
-#- Financial Economics 
-#- Labor Economics 
-#- Agricultural Policy
+Interests:
+- Industrial Organization
+- Auction Theory     
+- Financial Economics 
+- Labor Economics 
+- Agricultural Policy
 
 #education:
 #  courses:
-#  - course: PhD in Artificial Intelligence
-#    institution: Stanford University
-#    year: 2012
-#  - course: MEng in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#    year: 2009
-#  - course: BSc in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#    year: 2008
+#  - course: Ph.D. in Agricultural Economics,
+#    institution: Texas A&M University, College Station, Texas 
+#    year: 2016-2024
+#  - course: Master of Science in Economics (unfinished)
+#    institution: Texas A&M University, College Station, Texas
+#    year: 2015-2016
+#  - course: BSc in Finance
+#    institution: Southwestern University of Finance and Economics, Chengdu, China
+#    year: 2011-2015
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons

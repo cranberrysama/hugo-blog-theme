@@ -46,7 +46,7 @@ Interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:mengqiaoliu@tamu.com # For a direct email link, use "mailto:mengqiaoliu@tamu.com".
+    link: mengqiaoliu@tamu.com # For a direct email link, use "mailto:mengqiaoliu@tamu.com".
 
 # Uncomment below for Github link
 #- icon: github

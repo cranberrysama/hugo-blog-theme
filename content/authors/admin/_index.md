@@ -27,17 +27,17 @@ Interests:
 - Labor Economics 
 - Agricultural Policy
 
-education:
-courses:
-- course: Ph.D. in Agricultural Economics,
-institution: Texas A&M University, College Station, Texas 
-year: 2016-2024
-- course: Master of Science in Economics (unfinished)
-institution: Texas A&M University, College Station, Texas
-year: 2015-2016
- - course: BSc in Finance
-institution: Southwestern University of Finance and Economics, Chengdu, China
-year: 2011-2015
+#education:
+#courses:
+#- course: Ph.D. in Agricultural Economics,
+#institution: Texas A&M University, College Station, Texas 
+#year: 2016-2024
+#- course: Master of Science in Economics (unfinished)
+#institution: Texas A&M University, College Station, Texas
+#year: 2015-2016
+# - course: BSc in Finance
+#institution: Southwestern University of Finance and Economics, Chengdu, China
+#year: 2011-2015
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons

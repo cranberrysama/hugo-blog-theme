@@ -27,17 +27,17 @@ Interests:
 - Labor Economics 
 - Agricultural Policy
 
-#education:
-#  courses:
-#  - course: Ph.D. in Agricultural Economics,
-#    institution: Texas A&M University, College Station, Texas 
-#    year: 2016-2024
-#  - course: Master of Science in Economics (unfinished)
-#    institution: Texas A&M University, College Station, Texas
-#    year: 2015-2016
-#  - course: BSc in Finance
-#    institution: Southwestern University of Finance and Economics, Chengdu, China
-#    year: 2011-2015
+education:
+courses:
+- course: Ph.D. in Agricultural Economics,
+institution: Texas A&M University, College Station, Texas 
+year: 2016-2024
+- course: Master of Science in Economics (unfinished)
+institution: Texas A&M University, College Station, Texas
+year: 2015-2016
+ - course: BSc in Finance
+institution: Southwestern University of Finance and Economics, Chengdu, China
+year: 2011-2015
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -46,13 +46,8 @@ Interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'about/#contact' # For a direct email link, use "mailto:test@example.org".
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/wowchemy
-  - icon: instagram
-    icon_pack: fab
-    link: https://instagram.com/geocushen
+    link: 'about/#contact' # For a direct email link, use "mailto:mengqiaoliu@tamu.com".
+
 # Uncomment below for Github link
 #- icon: github
 #  icon_pack: fab
@@ -60,9 +55,9 @@ social:
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+- icon: cv
+ icon_pack: ai
+link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 #email: ""

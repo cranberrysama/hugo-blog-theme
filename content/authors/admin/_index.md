@@ -14,8 +14,9 @@ status:
 
 # Organizations/Affiliations
 organizations:
+  - edu: Department of Agricultural Economics, Texas A&M University 
   - name: 求职中
-    url: ''
+  - url: 'Mengqiaoliu@tamu.edu'
 
 # Short bio (displayed in the user profile at the end of posts)
 bio: My research interests are in the field of applied Microeconomics. Before starting my PhD in Agricultural Economics at Texas A&M University (TAMU), I earned my bachelor’s degree in finance from Southwest University of Finance and Economics and spent a year of study in TAMU's Economics Department. This diverse educational background has enabled me to explore a wide range of topics in my research, including portfolio risk management, labor policy, auction theory, and agricultural policies.
@@ -43,10 +44,10 @@ Interests:
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-social:
-  - icon: envelope
-    icon_pack: fas
-    link: 'mengqiaoliu@tamu.com' # For a direct email link, use "mailto:mengqiaoliu@tamu.com".
+#social:
+ # - icon: envelope
+#    icon_pack: fas
+#    link: 'mengqiaoliu@tamu.com' # For a direct email link, use "mailto:mengqiaoliu@tamu.com".
 
 # Uncomment below for Github link
 #- icon: github

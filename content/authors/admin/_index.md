@@ -43,10 +43,10 @@ Interests:
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-social:
-  - icon: envelope
-    icon_pack: fas
-    link: "mailto:mengqiaoliu@tamu.com" # For a direct email link, use "mailto:mengqiaoliu@tamu.com".
+#social:
+#  - icon: envelope
+ #   icon_pack: fas
+ #   link: "mailto:mengqiaoliu@tamu.com" # For a direct email link, use "mailto:mengqiaoliu@tamu.com".
 
 # Uncomment below for Github link
 #- icon: github
@@ -55,9 +55,9 @@ social:
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-- icon: cv
- icon_pack: ai
-link: static/uploads/0CV_Mengqiao.pdf
+#- icon: cv
+# icon_pack: ai
+#link: static/uploads/0CV_Mengqiao.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 #email: ""

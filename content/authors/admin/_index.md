@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Alice Bighetti (吳恩達)
+title: Mengqiao Liu (刘梦乔)
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: 数据科学家
+role: 
 
 # Status emoji
 status:
@@ -14,16 +14,18 @@ status:
 
 # Organizations/Affiliations
 organizations:
-  - name: 腾讯
+  - name: 求职中
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests are in the field of applied Microeconomics. Before starting my PhD in Agricultural Economics at Texas A&M University (TAMU), I earned my bachelor’s degree in finance from Southwest University of Finance and Economics and spent a year of study in TAMU's Economics Department. This diverse educational background has enabled me to explore a wide range of topics in my research, including portfolio risk management, labor policy, auction theory, and agricultural policies.
 
 #interests:
-#- Artificial Intelligence
-#- Computational Linguistics
-#- Information Retrieval
+#- Industrial Organization
+#- Auction Theory     
+#- Financial Economics 
+#- Labor Economics 
+#- Agricultural Policy
 
 #education:
 #  courses:

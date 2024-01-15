@@ -55,14 +55,13 @@ Interests:
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-#- icon: cv
-# icon_pack: ai
-#link: static/uploads/0CV_Mengqiao.pdf
+- icon: cv
+icon_pack: ai
+link: static/uploads/0CV_Mengqiao.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 #email: ""
 ---
 
-Alice Bighetti is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Mengqiao possesses a profound knowledge of economic and finance theories, including auction theory, labor economics, and portfolio risk management. She is also skilled in empirical analysis approaches, such as Difference in Differences (DiD), random coefficient logit, dynamic copula theory, and meta-analysis. In her previous research work, Mengqiao has experience working with various programming languages and tools, such as R, Matlab, SAS, and Python.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
